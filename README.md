@@ -28,4 +28,5 @@ FRPC RUNNING!
 Successful!
 <br>
 
-<img width="1918" height="818" alt="Site hosted" src="https://github.com/user-attachments/assets/68484aa6-1f5a-41fe-afb3-ddf10ac57ba9" />
+<img width="1088" height="348" alt="Screenshot 2025-10-04 214034" src="https://github.com/user-attachments/assets/c2ba2cb8-59a1-4a6b-86c4-ba4a6921e498" />
+
